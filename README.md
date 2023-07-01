@@ -11,6 +11,11 @@
 # ways to start
 - Do clone from a Git repository using this command "git clone https://github.com/mkylzpu1/TodoList.git"
 - Move to the app folder you installed
+- Open the tarminal, command "cp .env.example .env"
+- "composer install"
+- "touch database/database.sqlite"
+- "php artisan key:generate"
+- "php artisan migrate"
 - Open the tarminal, after that command "php artinsa serve"
 - Open the other tarminal, and then command "npm run dev"
 - You can access to Website "http://127.0.0.1:8000/tasks"
